@@ -1,0 +1,24 @@
+/*your custom CSS here*/
+
+
+body {
+  padding-top: 100px;
+}
+
+img {
+  width: 100%;
+}
+
+
+.box {
+  padding: 10px 20px;
+}
+
+
+.heading {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 10px 10px 0 10px;
+}
