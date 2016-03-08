@@ -2,3 +2,7 @@
 body{
   max-width: 1000px;
 }
+div #header img{
+  width:1000px;
+  margin:0 auto;
+}
